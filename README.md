@@ -1,4 +1,4 @@
-# Local PDF Chatbot using TinyLlama and LlamaIndex, sandbox
+# Offline PDF specialized Chatbot using TinyLlama and LlamaIndex, sandbox
 
 This project sets up a local chatbot that can answer questions based on the content of PDF documents. It's a symbolic 
 sandbox for a more refined version of it, for example, it now specializes on a certain type of scientific articles.

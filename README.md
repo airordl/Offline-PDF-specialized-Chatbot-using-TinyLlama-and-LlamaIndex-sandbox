@@ -46,13 +46,12 @@ Ignore warnings, errors, loading bars. At a certain point the chatbot will tell 
 
 ## File Structure
 
-
-this directory/
+project_root/
 ├── setup.sh
 ├── manual_chatbot.py
 ├── manuals/
 │   ├── doc1.pdf
-│   └── etc....pdf
+│   └── ...
 ├── temp_venv/
 └── README.md
 

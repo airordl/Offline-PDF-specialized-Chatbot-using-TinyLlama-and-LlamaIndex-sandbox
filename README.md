@@ -31,6 +31,9 @@ source setup.sh
 SETUP
 ```
 
+Add PDF files in the manual directory. Any number of them is fine, they will provide the context with which the 
+chatbot will operate
+
 
 ## Usage
 
@@ -51,7 +54,7 @@ project_root/
 ├── manual_chatbot.py
 ├── manuals/
 │   ├── doc1.pdf
-│   └── ...
+│   └── doc2.pdf
 ├── temp_venv/
 └── README.md
 

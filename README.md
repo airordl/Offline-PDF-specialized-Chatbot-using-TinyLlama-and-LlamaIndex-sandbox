@@ -37,6 +37,15 @@ chatbot will operate
 
 ## Usage
 
+Populate the 
+```bash
+manuals
+```
+
+directory with .pdf files of your choice. It could be a theme, such as a bibliography of a specific topic.
+
+Then run
+
 ```bash
 source temp_venv/bin/activate
 python chatbot.py
@@ -52,7 +61,7 @@ Ignore warnings, errors, loading bars. At a certain point the chatbot will tell 
 ```
 project_root/
 ├── setup.sh
-├── manual_chatbot.py
+├── chatbot.py
 ├── manuals/
 │   ├── doc1.pdf
 │   └── ...

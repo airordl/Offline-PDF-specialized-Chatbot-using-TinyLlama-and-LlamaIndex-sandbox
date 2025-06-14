@@ -42,7 +42,7 @@ Populate the
 manuals
 ```
 
-directory with .pdf files of your choice. It could be a theme, such as a bibliography of a specific topic.
+directory with .pdf files of your choice. It could be a theme, such as bibliography on a specific topic.
 
 Then run
 
